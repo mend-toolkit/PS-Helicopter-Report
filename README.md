@@ -1,4 +1,6 @@
 ![Logo](https://mend-toolkit-resources-public.s3.amazonaws.com/img/mend-io-logo-horizontal.svg)
+> [!Warning]  
+**This repository has been deprecated. We will not be making any changes or enhancements to this repository. If you are actively using this utility. Please contact your Customer Success Manager to get in touch with a Mend Professional Services Engineer to discuss possible alternative solutions.**
 
 # PS-Helicopter-Report
 Provided in this repository is the JAR file for Mend Helicopter Reports. These reports give an overall understanding of a Global Organization in Mend, and helps provide a clear picture of alerts, and which ones are reachable.
